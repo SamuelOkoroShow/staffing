@@ -1,4 +1,4 @@
-# react-redux-playground
+# Staffing App
 
 [![build status](https://img.shields.io/travis/tanem/react-redux-playground/master.svg?style=flat-square)](https://travis-ci.org/tanem/react-redux-playground)
 [![coverage status](https://img.shields.io/coveralls/tanem/react-redux-playground.svg?style=flat-square)](https://coveralls.io/github/tanem/react-redux-playground)
@@ -45,41 +45,3 @@ Generate coverage reports:
 $ npm run test:cov
 ```
 
-## Links
-
-### People
-
-- [Dan Abramov](https://github.com/gaearon)
-
-### Docs
-
-- [React Docs](https://facebook.github.io/react/)
-- [Redux GitBook](http://rackt.org/redux/index.html)
-
-### Talks & Videos
-
-- [Dan Abramov - Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
-- [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-
-### Examples & Links
-
-- [Redux examples](https://github.com/rackt/redux/tree/master/examples)
-- [A call for quality articles, examples, and resources](https://github.com/rackt/redux/issues/1014)
-- [Awesome Redux](https://github.com/xgrommx/awesome-redux)
-- [SoundRedux](https://github.com/andrewngu/sound-redux)
-- [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
-- [React Toolbox](https://github.com/react-toolbox/react-toolbox)
-- [React Hot Boilerplate](https://github.com/gaearon/react-hot-boilerplate)
-- [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate)
-- [React Black Triangle](https://github.com/jamesknelson/react-black-triangle)
-
-### Articles & Tutorials
-
-- [A Cartoon Intro To Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.n7j014qyf)
-- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.8nn5qe9w5)
-- [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.b0adk4ts5)
-- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-
-## License
-
-MIT
